@@ -1,0 +1,9 @@
+Package: gmmgutcheck
+Version: 0.1
+Date: 2023-01-28
+Title: Good Mythical Morning Gut Check Data
+Description: Rhett and Link's scores from "gut check" episodes of the YouTube series Good Mythical Morning.
+Author: Katie Allen
+Maintainer: Katie Allen <katie.larson.allen@gmail.com>
+LazyData: true
+License: CC BY 4.0
