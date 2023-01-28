@@ -1,0 +1,31 @@
+episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,1,classic,Rhett,60,51,TRUE,111,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,2,mixed berry,Link,52,53,TRUE,105,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,3,mint chocolate,Link,72,25,TRUE,97,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,4,banana,Rhett,66,41,TRUE,107,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,5,chocolate,Rhett,77,58,TRUE,135,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,6,fudge covered,Link,79,64,TRUE,143,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,7,cotton candy,Rhett,42,13,TRUE,55,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,8,golden,Link,64,69,TRUE,133,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,9,vanilla,Link,67,69,TRUE,136,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,10,chocolate,Link,79,83,TRUE,162,3
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,11,birthday cake,Link,38,61,TRUE,99,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,12,orange,Rhett,50,50,TRUE,100,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,13,iced lemon,Rhett,54,9,TRUE,63,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,14,holiday,Link,36,19,TRUE,55,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,15,valentine's,Rhett,47,32,TRUE,79,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,16,unicorn,Rhett,58,19,TRUE,77,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,17,mermaid,Rhett,46,22,TRUE,68,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,18,chocolate,Rhett,81,47,TRUE,128,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,19,white fudge,LInk,64,49,TRUE,113,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,20,caramel,Rhett,32,33,TRUE,65,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,21,peanut butter,Rhett,49,20,TRUE,69,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,22,valentine's,Link,57,40,TRUE,97,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,23,vanilla zinger,Link,62,77,TRUE,139,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,24,chocolate devil's zinger,Rhett,73,80,TRUE,153,4
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,25,raspberry zinger,Link,28,5,TRUE,33,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,26,hohos,Rhett,66,62,TRUE,128,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,27,snoballs,Rhett,71,31,TRUE,102,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,28,suzy q's,Link,56,33,TRUE,89,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,29,cinnamon streusel coffee cake,Link,85,88,TRUE,173,2
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,30,cream cheese coffee cake,Rhett,90,78,TRUE,168,1

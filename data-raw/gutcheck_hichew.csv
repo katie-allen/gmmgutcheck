@@ -1,0 +1,38 @@
+episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,1,green apple,Rhett,80,89,TRUE,169,3
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,2,lemon,Link,35,10,TRUE,45,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,3,grape,Link,68,79,TRUE,147,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,4,black cherry,Link,55,41,TRUE,96,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,5,watermelon,Rhett,76,62,TRUE,138,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,6,grapefruit,Rhett,81,90,TRUE,171,1
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,7,pineapple,Link,61,50,TRUE,111,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,8,juicy peach,Link,50,55,TRUE,105,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,9,peach (japanese flavor),Link,49,69,TRUE,118,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,10,mango,Link,34,39,TRUE,73,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,11,mango (reduced sugar),Rhett,5,1,TRUE,6,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,12,kiwi,Link,17,22,TRUE,39,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,13,banana,Link,52,29,TRUE,81,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,14,blue raspberry,Link,57,52,TRUE,109,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,15,raspberry,Rhett,61,70,TRUE,131,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,16,blueberry,Link,70,78,TRUE,NA,4
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,17,strawberry,Link,42,69,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,18,juicy strawberry,Rhett,41,40,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,19,red apple & strawberry,Rhett,38,80,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,20,strawberry lemonade,Rhett,15,20,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,21,strawberry (reduced sugar),Link,2,4,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,22,dragonfruit,Link,31,18,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,23,acai,Link,41,57,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,24,juicy blood orange,Link,50,49,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,25,orange & tangerine,Rhett,74,60,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,26,lychee,Link,78,71,TRUE,NA,2
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,27,lilikoi,Rhett,63,63,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,28,yubari melon,Link,68,75,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,29,plain yogurt,Link,77,40,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,30,blueberry yogurt,Link,64,40,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,31,strawberry yogurt,Rhett,57,40,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,32,blue hawaii,Link,15,21,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,33,rainbow sherbet,Link,44,51,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,34,ramune,Link,17,30,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,35,cola,Link,45,9,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,36,tropical smoothie,Rhett,73,59,TRUE,NA,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,37,pina colada,Link,61,29,TRUE,NA,NA

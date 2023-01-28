@@ -1,0 +1,53 @@
+episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,1,chocolate fudge brownie,Rhett,81,72,FALSE,153,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,2,chocolate shake it,Rhett,82,58,FALSE,140,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,3,chocolate therapy,Link,72,43,FALSE,115,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,4,glampfire trail mix,Rhett,77,69,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,5,new york super fudge chunk,Rhett,53,29,FALSE,82,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,6,phish food,Rhett,58,21,FALSE,79,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,7,s'mores,Rhett,74,71,FALSE,145,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,8,the tonight dough,Link,76,89,FALSE,165,2
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,9,minter wonderland,Rhett,83,19,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,10,vanilla,Link,45,50,FALSE,95,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,11,vanilla caramel fudge,Rhett,61,32,FALSE,93,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,12,americone dream,Rhett,78,59,FALSE,137,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,13,chocolate chip cookie dough,Link,61,57,FALSE,118,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,14,chubby hubby,Rhett,41,34,FALSE,75,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,15,ice cream sammie,Link,74,3,FALSE,77,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,16,milk and cookies,Rhett,55,55,FALSE,110,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,17,salted caramel almond,Rhett,68,27,FALSE,95,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,18,brewed to matter,Link,78,80,FALSE,158,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,19,chillin' the roast,Rhett,28,12,FALSE,40,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,20,"coffee, coffee, buzzbuzzbuzz!",Rhett,47,53,FALSE,100,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,21,coffee toffee bar crunch,Rhett,82,22,FALSE,104,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,22,cold brew caramel latte,Rhett,57,43,FALSE,100,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,23,chunky monkey,Rhett,84,33,FALSE,117,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,24,cherry garcia,Rhett,85,17,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,25,pumpkin cheesecake,Rhett,78,68,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,26,"red, white & blueberry",Rhett,61,88,FALSE,149,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,27,strawberry cheesecake,Link,66,64,FALSE,130,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,28,peanut butter world,Rhett,90,87,FALSE,177,1
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,29,peanut butter half baked,Link,88,89,FALSE,177,3
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,30,netflix & chilll'd,Link,82,80,FALSE,162,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,31,peanut butter cup,Rhett,78,72,FALSE,150,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,32,peanut butter fudge core,Rhett,84,87,FALSE,171,4
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,33,"wake & ""no bake"" cookie dough core",Rhett,65,66,FALSE,131,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,34,caramel chocolate cheesecake,link,67,43,FALSE,110,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,35,everything but the...,Rhett,33,31,FALSE,64,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,36,sweet like sugar cookie dough core,Rhett,45,32,FALSE,77,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,37,cinnamon buns,Rhett,52,94,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,38,half baked,Rhett,71,82,FALSE,153,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,39,oat of this swirled,Rhett,49,86,FALSE,135,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,40,salted caramel core,Link,73,29,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,41,triple caramel chunk,Rhett,75,22,FALSE,97,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,42,urban bourbon,Rhett,17,7,FALSE,24,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,43,boom chocolatta! cookie core,Link,38,51,FALSE,89,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,44,"pistachio, pistachio",Rhett,44,22,FALSE,66,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,45,mint chocolate cookie,Rhett,67,49,FALSE,116,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,46,brownie batter core,Rhett,79,79,FALSE,158,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,47,chocolate chip cookie dough core,Link,74,57,FALSE,131,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,48,cookies & cream cheesecake core,Link,76,51,FALSE,127,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,49,karamel sutra core,Link,54,19,FALSE,73,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,50,cannoli,Rhett,28,12,FALSE,40,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,51,gimme s'more,Link,69,44,FALSE,113,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,52,justice remix'd,Rhett,33,49,FALSE,82,NA

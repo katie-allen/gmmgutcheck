@@ -1,0 +1,25 @@
+episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,1,original glazed,Link,85,91,FALSE,176,1
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,2,maple iced glazed,Link,71,64,FALSE,135,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,3,chocolate iced glazed,Rhett,86,89,FALSE,175,4
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,4,chocolate iced glazed w/ sprinkles,Rhett,72,43,FALSE,115,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,5,strawberry iced,Rhett,54,20,FALSE,74,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,6,strawberry iced with sprinkles,Rhett,31,19,FALSE,50,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,7,glazed sour cream,Rhett,84,69,FALSE,153,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,8,glazed chocolate cake,Rhett,94,83,FALSE,177,3
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,9,apple fritter,Rhett,73,73,FALSE,146,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,10,original filled chocolate kreme,Link,69,58,FALSE,127,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,11,new york cheesecake,Rhett,76,49,FALSE,125,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,12,glazed with kreme filling,Rhett,82,57,FALSE,139,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,13,chocolate iced with kreme filling,Link,79,68,FALSE,147,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,14,chocolate iced custard filled,Rhett,87,91,FALSE,178,2
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,15,original filled original kreme,Rhett,80,47,FALSE,127,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,16,glazed raspberry filled,Link,83,68,FALSE,151,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,17,glazed lemon filled,Link,57,34,FALSE,91,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,18,powdered strawberry filled,Rhett,63,76,FALSE,139,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,19,cake batter filled,Rhett,49,40,FALSE,89,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,20,chocolate bar,Rhett,73,9,FALSE,82,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,21,maple bar,Rhett,68,14,FALSE,82,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,22,maple bar,Rhett,68,65,FALSE,131,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,cinnamon and/or sugar,23,sugar,Rhett,46,50,FALSE,96,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-11,donut,cinnamon and/or sugar,24,cinnamon sugar,Link,66,73,FALSE,139,NA
