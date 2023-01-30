@@ -46,6 +46,7 @@ gutcheck <- gutcheck %>%
          flavor = as_factor(flavor),
          episode = as_factor(episode))
 
+#write_csv(gutcheck, "gutcheck.csv")
 
 #--- export data ---------------------------------------
 

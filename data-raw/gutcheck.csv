@@ -1,0 +1,175 @@
+episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,1,chocolate fudge brownie,Rhett,81,72,FALSE,153,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,2,chocolate shake it,Rhett,82,58,FALSE,140,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,3,chocolate therapy,Link,72,43,FALSE,115,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,4,glampfire trail mix,Rhett,77,69,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,5,new york super fudge chunk,Rhett,53,29,FALSE,82,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,6,phish food,Rhett,58,21,FALSE,79,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,7,s'mores,Rhett,74,71,FALSE,145,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,8,the tonight dough,Link,76,89,FALSE,165,2
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,chocolate flavors,9,minter wonderland,Rhett,83,19,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,10,vanilla,Link,45,50,FALSE,95,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,11,vanilla caramel fudge,Rhett,61,32,FALSE,93,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,12,americone dream,Rhett,78,59,FALSE,137,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,13,chocolate chip cookie dough,Link,61,57,FALSE,118,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,14,chubby hubby,Rhett,41,34,FALSE,75,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,15,ice cream sammie,Link,74,3,FALSE,77,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,16,milk and cookies,Rhett,55,55,FALSE,110,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,vanilla flavors,17,salted caramel almond,Rhett,68,27,FALSE,95,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,18,brewed to matter,Link,78,80,FALSE,158,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,19,chillin' the roast,Rhett,28,12,FALSE,40,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,20,"coffee, coffee, buzzbuzzbuzz!",Rhett,47,53,FALSE,100,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,21,coffee toffee bar crunch,Rhett,82,22,FALSE,104,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,coffee flavors,22,cold brew caramel latte,Rhett,57,43,FALSE,100,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,23,chunky monkey,Rhett,84,33,FALSE,117,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,24,cherry garcia,Rhett,85,17,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,25,pumpkin cheesecake,Rhett,78,68,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,26,"red, white & blueberry",Rhett,61,88,FALSE,149,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,fruit flavors,27,strawberry cheesecake,Link,66,64,FALSE,130,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,28,peanut butter world,Rhett,90,87,FALSE,177,1
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,29,peanut butter half baked,Link,88,89,FALSE,177,3
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,30,netflix & chilll'd,Link,82,80,FALSE,162,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,31,peanut butter cup,Rhett,78,72,FALSE,150,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,peanut butter flavors,32,peanut butter fudge core,Rhett,84,87,FALSE,171,4
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,33,"wake & ""no bake"" cookie dough core",Rhett,65,66,FALSE,131,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,34,caramel chocolate cheesecake,link,67,43,FALSE,110,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,35,everything but the...,Rhett,33,31,FALSE,64,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,36,sweet like sugar cookie dough core,Rhett,45,32,FALSE,77,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,37,cinnamon buns,Rhett,52,94,FALSE,146,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,38,half baked,Rhett,71,82,FALSE,153,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,39,oat of this swirled,Rhett,49,86,FALSE,135,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,40,salted caramel core,Link,73,29,FALSE,102,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,41,triple caramel chunk,Rhett,75,22,FALSE,97,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,42,urban bourbon,Rhett,17,7,FALSE,24,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,43,boom chocolatta! cookie core,Link,38,51,FALSE,89,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,44,"pistachio, pistachio",Rhett,44,22,FALSE,66,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,45,mint chocolate cookie,Rhett,67,49,FALSE,116,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,46,brownie batter core,Rhett,79,79,FALSE,158,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,47,chocolate chip cookie dough core,Link,74,57,FALSE,131,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,48,cookies & cream cheesecake core,Link,76,51,FALSE,127,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,49,karamel sutra core,Link,54,19,FALSE,73,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,50,cannoli,Rhett,28,12,FALSE,40,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,51,gimme s'more,Link,69,44,FALSE,113,NA
+We Tried EVERY Ben & Jerry's Ice Cream Flavor,2020-03-02,ice cream,wild card flavors,52,justice remix'd,Rhett,33,49,FALSE,82,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,1,original glazed,Link,85,91,FALSE,176,1
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,2,maple iced glazed,Link,71,64,FALSE,135,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,3,chocolate iced glazed,Rhett,86,89,FALSE,175,4
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,4,chocolate iced glazed w/ sprinkles,Rhett,72,43,FALSE,115,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,5,strawberry iced,Rhett,54,20,FALSE,74,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,6,strawberry iced with sprinkles,Rhett,31,19,FALSE,50,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,7,glazed sour cream,Rhett,84,69,FALSE,153,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,8,glazed chocolate cake,Rhett,94,83,FALSE,177,3
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,glazed and/or iced,9,apple fritter,Rhett,73,73,FALSE,146,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,10,original filled chocolate kreme,Link,69,58,FALSE,127,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,11,new york cheesecake,Rhett,76,49,FALSE,125,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,12,glazed with kreme filling,Rhett,82,57,FALSE,139,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,13,chocolate iced with kreme filling,Link,79,68,FALSE,147,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,14,chocolate iced custard filled,Rhett,87,91,FALSE,178,2
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,15,original filled original kreme,Rhett,80,47,FALSE,127,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,16,glazed raspberry filled,Link,83,68,FALSE,151,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,17,glazed lemon filled,Link,57,34,FALSE,91,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,18,powdered strawberry filled,Rhett,63,76,FALSE,139,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,19,cake batter filled,Rhett,49,40,FALSE,89,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,20,chocolate bar,Rhett,73,9,FALSE,82,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,filled,21,maple bar,Rhett,68,65,FALSE,131,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,cinnamon and/or sugar,22,sugar,Rhett,46,50,FALSE,96,NA
+We Tried EVERY Krispy Kreme Donut Flavor,2020-07-10,donut,cinnamon and/or sugar,23,cinnamon sugar,Link,66,73,FALSE,139,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,1,froot loops,Rhett,68,52,FALSE,150,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,2,raspberry,Rhett,77,84,FALSE,161,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,3,wildlicious wild! berry,Link,81,89,FALSE,170,1
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,4,simply frosted orchard apple cinnamon,Rhett,75,50,FALSE,125,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,5,strawberry,Link,70,67,FALSE,137,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,6,simply frosted harvest strawberry,Rhett,66,51,FALSE,117,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,7,unfrosted blueberry,Link,64,30,FALSE,94,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,8,crisp apple,Rhett,74,75,FALSE,149,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,9,unfrosted strawberry,Rhett,61,29,FALSE,90,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,10,strawberry milkshake,Rhett,49,43,FALSE,92,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,11,blueberry,Rhett,82,59,FALSE,141,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,12,cherry,Link,62,23,FALSE,85,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,13,"red, white & blueberry",Rhett,78,70,FALSE,148,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,14,chocolate chip,Link,78,81,FALSE,159,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,15,chocolate chip cookie dough,Rhett,58,58,FALSE,116,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,16,chocolatey churro,Link,51,24,FALSE,75,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,17,chocolate fudge,Rhett,41,65,FALSE,106,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,18,chocolate cupcake,Link,50,48,FALSE,98,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,19,pretzel chocolate,Rhett,81,15,FALSE,96,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,20,cinnamon roll,Rhett,49,68,FALSE,117,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,21,confetti cupcake,Rhett,38,18,FALSE,56,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,22,crisps: strawberrylicious,Rhett,86,87,FALSE,173,4
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,23,brown sugar cinnamon,Rhett,72,56,FALSE,128,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,24,cookies & creme,Rhett,49,39,FALSE,88,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,25,crisps: blueberrific,Rhett,89,88,FALSE,177,2
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,26,sugar cookie,Link,58,40,FALSE,98,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,27,pretzel cinnamon sugar,Rhett,79,13,FALSE,92,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,28,unfrosted brown sugar cinnamon,Rhett,61,21,FALSE,82,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,29,hot fudge sundae,Link,74,69,FALSE,143,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,30,crisps: appletastic,Rhett,78,77,FALSE,155,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,31,s'mores,Rhett,86,89,FALSE,175,3
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,32,mer-mazing blue raspberry,Rhett,81,49,FALSE,130,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,1,classic,Rhett,60,51,TRUE,111,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,2,mixed berry,Link,52,53,TRUE,105,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,3,mint chocolate,Link,72,25,TRUE,97,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,4,banana,Rhett,66,41,TRUE,107,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,5,chocolate,Rhett,77,58,TRUE,135,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,6,fudge covered,Link,79,64,TRUE,143,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,twinkies,7,cotton candy,Rhett,42,13,TRUE,55,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,8,golden,Link,64,69,TRUE,133,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,9,vanilla,Link,67,69,TRUE,136,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,10,chocolate,Link,79,83,TRUE,162,3
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,11,birthday cake,Link,38,61,TRUE,99,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,12,orange,Rhett,50,50,TRUE,100,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,13,iced lemon,Rhett,54,9,TRUE,63,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,14,holiday,Link,36,19,TRUE,55,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,15,valentine's,Rhett,47,32,TRUE,79,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,16,unicorn,Rhett,58,19,TRUE,77,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,cupcakes,17,mermaid,Rhett,46,22,TRUE,68,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,18,chocolate,Rhett,81,47,TRUE,128,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,19,white fudge,LInk,64,49,TRUE,113,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,20,caramel,Rhett,32,33,TRUE,65,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,21,peanut butter,Rhett,49,20,TRUE,69,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,ding dongs,22,valentine's,Link,57,40,TRUE,97,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,23,vanilla zinger,Link,62,77,TRUE,139,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,24,chocolate devil's zinger,Rhett,73,80,TRUE,153,4
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,25,raspberry zinger,Link,28,5,TRUE,33,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,26,hohos,Rhett,66,62,TRUE,128,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,27,snoballs,Rhett,71,31,TRUE,102,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,28,suzy q's,Link,56,33,TRUE,89,NA
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,29,cinnamon streusel coffee cake,Link,85,88,TRUE,173,2
+We Try EVERY Hostess Cake Flavor,2021-05-21,hostess cake,miscellaneous,30,cream cheese coffee cake,Rhett,90,78,TRUE,168,1
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,1,green apple,Rhett,80,89,TRUE,169,3
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,2,lemon,Link,35,10,TRUE,45,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,3,grape,Link,68,79,TRUE,147,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,4,black cherry,Link,55,41,TRUE,96,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,5,watermelon,Rhett,76,62,TRUE,138,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,6,grapefruit,Rhett,81,90,TRUE,171,1
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,7,pineapple,Link,61,50,TRUE,111,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,8,juicy peach,Link,50,55,TRUE,105,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,9,peach (japanese flavor),Link,49,69,TRUE,118,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,10,mango,Link,34,39,TRUE,73,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,11,mango (reduced sugar),Rhett,5,1,TRUE,6,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,12,kiwi,Link,17,22,TRUE,39,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,13,banana,Link,52,29,TRUE,81,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,14,blue raspberry,Link,57,52,TRUE,109,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,15,raspberry,Rhett,61,70,TRUE,131,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,16,blueberry,Link,70,78,TRUE,148,4
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,17,strawberry,Link,42,69,TRUE,111,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,18,juicy strawberry,Rhett,41,40,TRUE,81,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,19,red apple & strawberry,Rhett,38,80,TRUE,118,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,20,strawberry lemonade,Rhett,15,20,TRUE,35,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,21,strawberry (reduced sugar),Link,2,4,TRUE,6,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,22,dragonfruit,Link,31,18,TRUE,49,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,23,acai,Link,41,57,TRUE,98,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,24,juicy blood orange,Link,50,49,TRUE,99,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,25,orange & tangerine,Rhett,74,60,TRUE,134,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,26,lychee,Link,78,71,TRUE,149,2
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,27,lilikoi,Rhett,63,63,TRUE,126,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,fruit,28,yubari melon,Link,68,75,TRUE,143,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,29,plain yogurt,Link,77,40,TRUE,117,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,30,blueberry yogurt,Link,64,40,TRUE,104,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,yogurt,31,strawberry yogurt,Rhett,57,40,TRUE,97,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,32,blue hawaii,Link,15,21,TRUE,36,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,33,rainbow sherbet,Link,44,51,TRUE,95,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,34,ramune,Link,17,30,TRUE,47,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,35,cola,Link,45,9,TRUE,54,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,36,tropical smoothie,Rhett,73,59,TRUE,132,NA
+We Tried EVERY Hi-Chew Flavor,2022-10-28,hi-chew,miscellaneous,37,pina colada,Link,61,29,TRUE,90,NA
