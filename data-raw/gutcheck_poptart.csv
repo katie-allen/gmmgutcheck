@@ -1,1 +1,33 @@
 episode,date,food,category,order,flavor,first_to_score,rhett_score,link_score,link_scoring_chart,total_score,top_4
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,1,froot loops,Rhett,68,52,FALSE,150,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,2,raspberry,Rhett,77,84,FALSE,161,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,3,wildlicious wild! berry,Link,81,89,FALSE,170,1
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,4,simply frosted orchard apple cinnamon,Rhett,75,50,FALSE,125,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,5,strawberry,Link,70,67,FALSE,137,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,6,simply frosted harvest strawberry,Rhett,66,51,FALSE,117,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,7,unfrosted blueberry,Link,64,30,FALSE,94,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,8,crisp apple,Rhett,74,75,FALSE,149,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,9,unfrosted strawberry,Rhett,61,29,FALSE,90,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,10,strawberry milkshake,Rhett,49,43,FALSE,92,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,11,blueberry,Rhett,82,59,FALSE,141,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,12,cherry,Link,62,23,FALSE,85,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,fruity flavors,13,"red, white & blueberry",Rhett,78,70,FALSE,148,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,14,chocolate chip,Link,78,81,FALSE,159,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,15,chocolate chip cookie dough,Rhett,58,58,FALSE,116,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,16,chocolatey churro,Link,51,24,FALSE,75,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,17,chocolate fudge,Rhett,41,65,FALSE,106,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,18,chocolate cupcake,Link,50,48,FALSE,98,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,chocolatey flavors,19,pretzel chocolate,Rhett,81,15,FALSE,96,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,20,cinnamon roll,Rhett,49,68,FALSE,117,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,21,confetti cupcake,Rhett,38,18,FALSE,56,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,22,crisps: strawberrylicious,Rhett,86,87,FALSE,173,4
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,23,brown sugar cinnamon,Rhett,72,56,FALSE,128,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,24,cookies & creme,Rhett,49,39,FALSE,88,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,25,crisps: blueberrific,Rhett,89,88,FALSE,177,2
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,26,sugar cookie,Link,58,40,FALSE,98,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,27,pretzel cinnamon sugar,Rhett,79,13,FALSE,92,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,28,unfrosted brown sugar cinnamon,Rhett,61,21,FALSE,82,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,29,hot fudge sundae,Link,74,69,FALSE,143,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,30,crisps: appletastic,Rhett,78,77,FALSE,155,NA
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,31,s'mores,Rhett,86,89,FALSE,175,3
+We Tried EVERY Pop-Tarts Flavor,2020-08-26,pop-tart,specialty flavors,32,mer-mazing blue raspberry,Rhett,81,49,FALSE,130,NA
