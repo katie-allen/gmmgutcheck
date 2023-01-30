@@ -8,7 +8,7 @@ Rhett and Link's scores from "gut check" episodes of the YouTube series Good Myt
 - We Tried EVERY Ben & Jerry's Ice Cream Flavor
 - We Tried EVERY Pop-Tarts Flavor
 
-You can access the data by installing the `gmmgutcheck` R package, or by downloading the raw `.csv` files from [this folder](https://github.com/katie-allen/gmmgutcheck/tree/main/data-raw).
+You can download the `.csv` files from [this folder](https://github.com/katie-allen/gmmgutcheck/tree/main/data-raw). There is one file for each episode, as well as a master file `gutcheck.csv` that combines all episodes. You can also access the data by installing the `gmmgutcheck` R package.
 
 ```
 install.packages("remotes")
